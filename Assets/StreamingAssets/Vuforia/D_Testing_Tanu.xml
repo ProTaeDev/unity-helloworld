@@ -1,10 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
   <Tracking>
-    <ImageTarget name="010" size="10.000000 14.187643" />
-    <ImageTarget name="009" size="10.000000 14.187643" />
-    <ImageTarget name="008" size="10.000000 14.187643" />
-    <ImageTarget name="007" size="10.000000 14.187643" />
-    <ImageTarget name="006" size="10.000000 14.187643" />
+    <ImageTarget name="012_Vocab6" size="10.000000 14.187643" />
+    <ImageTarget name="011_Vocab5" size="10.000000 14.187643" />
+    <ImageTarget name="010_Read" size="10.000000 14.187643" />
+    <ImageTarget name="009_Smile" size="10.000000 14.187643" />
+    <ImageTarget name="008_Dream" size="10.000000 14.187643" />
+    <ImageTarget name="007_Sleep" size="10.000000 14.187643" />
+    <ImageTarget name="006_Wake" size="10.000000 14.187643" />
+    <ImageTarget name="005_Buy" size="10.000000 14.187643" />
+    <ImageTarget name="004_Eat" size="10.000000 14.187643" />
+    <ImageTarget name="003_Play" size="10.000000 14.187643" />
+    <ImageTarget name="002_Travel" size="10.000000 14.187643" />
+    <ImageTarget name="001_Evening" size="10.000000 14.187643" />
   </Tracking>
 </QCARConfig>
